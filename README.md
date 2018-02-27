@@ -1,15 +1,18 @@
 ===== WHAT TO LEARN =====
 
->>>>> PAUL
+-> PAUL
 
-Selenium C#
-Selenium Java
-BrowserStack
-RESTful
-Python
-Cucumber?
-JUnit?
+<ul>
+<li>Selenium C#</li>
+<li>Selenium Java</li>
+<li>BrowserStack</li>
+<li>Sauce Labs</li>
+<li>RESTful</li>
+<li>Python</li>
+<li>Cucumber?</li>
+<li>JUnit?</li>
+</ul>
 
->>>>> AARON
+-> AARON
 
 TODO
