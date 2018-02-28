@@ -44,7 +44,7 @@
 
 
 ### Ron
-* AWS (Amazon Cognito, Elastic Beanstack, Anything else we need for the project)
+* AWS (Amazon Cognito, Elastic Beanstalk, Anything else we need for the project)
 * Docker
 * React Ecosystem (React, Redux, React-Router)
 * Vue JS (will make some lightweight components just to get a bit more familiar with it)
@@ -71,5 +71,5 @@ SERVER
 * Javascript?  
 
 CLIENT  
-* React?  
-* Vanilla JS?  
+* React?
+* Vue?    
