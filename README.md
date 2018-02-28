@@ -14,6 +14,8 @@
 * Sauce Labs
 * RESTful
 * Python
+* Node.js
+* Mocha
 * Cucumber?
 * JUnit?
 
