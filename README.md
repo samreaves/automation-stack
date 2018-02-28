@@ -19,7 +19,15 @@
 
 
 ### Aaron
-
+* Python
+* Linux
+* Full Bash Scripting
+* Docker
+* IAAC
+* Jenkins
+* Ansible
+* Terraform
+* Node.JS
 
 
 
