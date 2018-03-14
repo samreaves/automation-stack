@@ -44,7 +44,13 @@
 
 
 ### Ron
-
+* AWS (Amazon Cognito, Elastic Beanstack, Anything else we need for the project)
+* Docker
+* React Ecosystem (React, MobX, React-Router)
+* Facebook Flow
+* Vagrant
+* Terraform
+* Ansible
 
 
 
