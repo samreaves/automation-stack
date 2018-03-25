@@ -1,0 +1,9 @@
+# Our client container
+client:
+
+  # Root directory is built
+  build: ../packages/client
+
+  # Map machines port 80 with container's 3000
+  ports:
+   - "80:3000"
