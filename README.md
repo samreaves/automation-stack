@@ -54,6 +54,7 @@
 * Ansible
 
 
+
 ## What We Will Build
 ### Cloud Infrastructure Configuration
 * Vagrant as local machine so everyone starts on the same OS
