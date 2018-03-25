@@ -10,7 +10,7 @@ sudo apt-get update -y
 sudo apt-get install docker-ce -y
 sudo apt install docker.io -y
 echo “Configuring user…”
-sudo usermod -aG docker ubuntu
+sudo usermod -aG docker vagrant
 sudo apt-get update -y
 echo "Installing docker-compose"
 sudo curl -L https://github.com/docker/compose/releases/download/1.20.1/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
