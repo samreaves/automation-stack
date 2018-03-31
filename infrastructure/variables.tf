@@ -28,7 +28,7 @@ variable "availability_zone" {
 
 ########################### Automation Stack VPC Config ################################
 
-variable "AutomationStackVPC" {
+variable "automation_stack_vpc" {
   description = "VPC name for Test environment"
 }
 
